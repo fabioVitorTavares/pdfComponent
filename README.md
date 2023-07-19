@@ -8,7 +8,7 @@
     npm install pdfmake
 
 
-# Importações padão
+# Importações padrão
 
     import pdfMake from "pdfmake/build/pdfmake";
     
