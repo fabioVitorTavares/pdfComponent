@@ -3,7 +3,7 @@
     Componente react para criar pdf
 
 
-# Intalação pdfmake
+# Instalação pdfmake
 
     npm install pdfmake
 
